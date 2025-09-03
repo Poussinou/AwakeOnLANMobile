@@ -93,8 +93,8 @@ android {
         applicationId "com.awakeonlanmobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 100001
-        versionName "1.0.1"
+        versionCode 100002
+        versionName "1.0.2"
     }
     signingConfigs {
         debug {
